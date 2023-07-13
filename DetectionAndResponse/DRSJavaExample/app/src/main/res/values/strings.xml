@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">DRS Android SDK</string>
-    <string name="set_btn">SET USER</string>
-    <string name="send_action_btn">SEND ACTION</string>
-    <string name="enter_text"></string>
-    <string name="empty">\u0020</string>
-    <string name="main_illegal_userid">User ID cannot be empty</string>
-</resources>
