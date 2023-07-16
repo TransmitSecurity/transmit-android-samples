@@ -25,7 +25,7 @@ When your app configuration is based on EU, override the default base url with t
 
 1 - To observe status changes, register for the status by calling registerForStatus on onStart of the MainActivity class of your app:
 ```bash
-TSIdentityVerification.start(startToken: [START_TOKEN])
+ TSIdentityVerification.registerForStatus(this)
 ```
 2 -  Implement the ITSIdentityVerificationStatus:
 ```bash
