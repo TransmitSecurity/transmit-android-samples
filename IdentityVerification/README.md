@@ -64,3 +64,5 @@ You can use identity verification to securely verify the identity of your custom
 Transmit Security, https://github.com/TransmitSecurity
 
 ## License
+
+This project is licensed under the MIT license. See the LICENSE file for more info.
