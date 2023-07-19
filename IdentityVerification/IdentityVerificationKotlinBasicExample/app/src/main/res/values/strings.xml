@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IDV SDK Demo app</string>
+    <string name="title">Prepare For Verification</string>
+    <string name="description">This should take a few moments. In order to assure the verification succeeds, please make sure that</string>
+    <string name="instruction1">You use a Driver license, National ID or passport only</string>
+    <string name="instruction2">Document is not expired or damaged</string>
+    <string name="instruction3">Your capture is easily readable, laid on a solid background</string>
+    <string name="instruction4">No photo copies or screen capture</string>
+    <string name="agreement">I agree to the Terms &amp; Conditions and the Privacy Policy</string>
+    <string name="first_link">Terms &amp; Conditions</string>
+    <string name="second_link">Privacy Policy</string>
+    <string name="Start_btn">Continue</string>
+    <string name="statusTitle">Verification Status:</string>
+    <string name="new_verification">New Verification</string>
+</resources>
