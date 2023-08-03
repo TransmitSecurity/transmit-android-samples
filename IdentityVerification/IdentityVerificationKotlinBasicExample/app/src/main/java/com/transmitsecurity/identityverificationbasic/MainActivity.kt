@@ -101,6 +101,7 @@ class MainActivity : AppCompatActivity(), ITSIdentityVerificationStatus,Preparat
 
     }
 
+    //when verification status is completed, you can obtain the verification result via backend request (step 9).
     override fun verificationCompleted() {
         Log.d("verificationDidReceiveStatus", "verificationCompleted")
         changeStatusFragment("Completed")
