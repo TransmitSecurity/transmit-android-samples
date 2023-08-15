@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IDV SDK Demo app</string>
+    <string name="title">Prepare For Verification</string>
+    <string name="description">This should take a few moments. In order to assure the verification succeeds, please make sure that</string>
+    <string name="instruction1">You use a Driver license, National ID or passport only</string>
+    <string name="instruction2">Document is not expired or damaged</string>
+    <string name="instruction3">Your capture is easily readable, laid on a solid background</string>
+    <string name="instruction4">No photo copies or screen capture</string>
+    <string name="agreement">I agree to the Terms &amp; Conditions and the Privacy Policy</string>
+    <string name="first_link">Terms &amp; Conditions</string>
+    <string name="second_link">Privacy Policy</string>
+    <string name="Start_btn">Continue</string>
+    <string name="completion_title">Verification Complete</string>
+    <string name="new_btn">New verification</string>
+    <string name="error_1">Damaged Document</string>
+    <string name="error_2">Document Expired</string>
+    <string name="error_3">Unsupported Document</string>
+    <string name="error_title">Something went wrong</string>
+    <string name="error_sub_title">"Please go back and restart the verification process"</string>
+    <string name="processing_title">Verification in progress</string>
+    <string name="processing_sub_title">Please wait</string>
+    <string name="camera_permissions_title">Camera permissions required</string>
+    <string name="camera_permissions_sub_title">Enable camera permissions in the device app settings and try again</string>
+    <string name="camera_permissions_btn">Application settings</string>
+    <string name="try_again">Please try again</string>
+    <string name="instruction5">Make sure you capture a valid document and selfie and try again</string>
+    <string name="instruction6">Capture of document and selfie is clear</string>
+    <string name="instruction7">Take back capture (instead of front)</string>
+    <string name="instruction8">Selfie is in frame</string>
+    <string name="retry_btn">Retry</string>
+    <string name="use_other_id">Please use another government issue ID</string>
+    <string name="supported_documents">We support these document types</string>
+    <string name="supported_document_1">Passport</string>
+    <string name="supported_document_2">Driver license</string>
+    <string name="supported_document_3">National ID</string>
+</resources>
