@@ -1,7 +1,0 @@
-com.transmitsecurity.idvsdkdemoapp.test.app-core-1.5.0-0 /Users/milinalevine/.gradle/caches/transforms-3/9625a4369847c3660983c501a7b3626b/transformed/core-1.5.0/res
-com.transmitsecurity.idvsdkdemoapp.test.app-annotation-experimental-1.3.0-1 /Users/milinalevine/.gradle/caches/transforms-3/9fae957ef0e1266a83e5188cb210102e/transformed/annotation-experimental-1.3.0/res
-com.transmitsecurity.idvsdkdemoapp.test.app-androidTest-2 /Users/milinalevine/AndroidStudioProjects/IDVSDKDemoapp/app/build/generated/res/resValues/androidTest/debug
-com.transmitsecurity.idvsdkdemoapp.test.app-androidTest-3 /Users/milinalevine/AndroidStudioProjects/IDVSDKDemoapp/app/build/generated/res/rs/androidTest/debug
-com.transmitsecurity.idvsdkdemoapp.test.app-mergeDebugAndroidTestResources-4 /Users/milinalevine/AndroidStudioProjects/IDVSDKDemoapp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.transmitsecurity.idvsdkdemoapp.test.app-mergeDebugAndroidTestResources-5 /Users/milinalevine/AndroidStudioProjects/IDVSDKDemoapp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.transmitsecurity.idvsdkdemoapp.test.app-merged_res-6 /Users/milinalevine/AndroidStudioProjects/IDVSDKDemoapp/app/build/intermediates/merged_res/debugAndroidTest

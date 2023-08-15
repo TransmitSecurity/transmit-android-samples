@@ -1,3 +1,0 @@
-com.transmitsecurity.idvsdkdemoapp.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
