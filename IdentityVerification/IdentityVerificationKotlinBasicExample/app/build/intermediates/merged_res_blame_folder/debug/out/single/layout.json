@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-mergeDebugResources-53:/layout/main_screen.xml",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/layout/main_screen.xml"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-mergeDebugResources-53:/layout/screen_status.xml",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/layout/screen_status.xml"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-mergeDebugResources-53:/layout/activity_main.xml",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/layout/activity_main.xml"
+    }
+]

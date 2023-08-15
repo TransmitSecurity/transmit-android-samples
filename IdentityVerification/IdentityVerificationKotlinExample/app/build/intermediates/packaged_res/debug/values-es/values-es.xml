@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Start_btn">Continuar</string>
+    <string name="agreement">Acepto los Términos y Condiciones y la Política de Privacidad</string>
+    <string name="app_name">IDV SDK Demo app</string>
+    <string name="camera_permissions_btn">Ajustes de Aplicacion</string>
+    <string name="camera_permissions_sub_title">Habilite los permisos de la cámara en la configuración de la aplicación del dispositivo e intente nuevamente</string>
+    <string name="camera_permissions_title">Permisos de cámara requerido</string>
+    <string name="completion_title">Verificación completa</string>
+    <string name="description">Es importante que te asegures de:</string>
+    <string name="error_1">Documento dañado</string>
+    <string name="error_2">Cédula expirada</string>
+    <string name="error_3">Cédula no identificada</string>
+    <string name="error_sub_title">Vuelva atrás y reinicie el proceso de verificación</string>
+    <string name="error_title">Algo salió mal</string>
+    <string name="first_link">Términos y Condiciones</string>
+    <string name="instruction1">Tener a mano tu Cédula, Pasaporte, Licencia de conducir o Permiso de Residencia vigente.</string>
+    <string name="instruction2">Asegúrate de que tu cédula esté en buen estado.</string>
+    <string name="instruction3">Usar un fondo plano para las fotos.</string>
+    <string name="instruction4">No usar fotocopias ni pantallas.</string>
+    <string name="instruction5">Asegúrate de tomar fotos de tu cédula y tu selfie correctamente</string>
+    <string name="instruction6">Foto de cédula y selfie visibles</string>
+    <string name="instruction7">Tomar foto por el lado correcto</string>
+    <string name="instruction8">Tu selfie esté dentro del marco</string>
+    <string name="new_btn">Nueva verificación</string>
+    <string name="processing_sub_title">Espera por favor</string>
+    <string name="processing_title">Verificación en progreso</string>
+    <string name="retry_btn">Reintentar</string>
+    <string name="second_link">Política de Privacidad</string>
+    <string name="supported_document_1">Pasaporte</string>
+    <string name="supported_document_2">Licencia de conducir</string>
+    <string name="supported_document_3">Cédula</string>
+    <string name="supported_documents">Admitimos estos tipos de documentos</string>
+    <string name="title">Necesitamos verificar tu identidad</string>
+    <string name="try_again">Intenta nuevamente</string>
+    <string name="use_other_id">Por favor utiliza tu cédula de identidad vigente</string>
+</resources>

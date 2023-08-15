@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/logo_transmit"
+        android:layout_width="130dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/transmit_main_logo" />
+
+    <TextView
+        android:id="@+id/Recapture_reason"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="55dp"
+        android:text="TextView"
+        android:textSize="24dp"
+        android:fontFamily="@font/inter"
+        android:textFontWeight="600"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logo_transmit" />
+
+    <TextView
+        android:id="@+id/Recapture_tip"
+        android:layout_width="289dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="25dp"
+        android:text="Please use another government issue ID"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:fontFamily="@font/inter"
+        android:textFontWeight="400"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Recapture_reason" />
+
+    <ImageView
+        android:id="@+id/Suppported_Documents"
+        android:layout_width="125dp"
+        android:layout_height="113dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toStartOf="@+id/Supported_documents_title"
+        app:layout_constraintTop_toBottomOf="@+id/Supported_documents_title"
+        app:srcCompat="@drawable/supported_documents" />
+
+    <TextView
+        android:id="@+id/Supported_documents_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/inter"
+        android:text="We support these document types"
+        android:textColor="@color/black"
+        android:textFontWeight="700"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="@+id/Recapture_tip"
+        app:layout_constraintTop_toBottomOf="@+id/Recapture_tip" />
+
+    <Button
+        android:id="@+id/Retry_btn"
+        android:layout_width="327dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="104dp"
+        android:text="Retry"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

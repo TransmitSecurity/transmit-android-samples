@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable_to_do_list.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/drawable/to_do_list.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-pngs-49:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/layout_activity_main.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable_calendar.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/drawable/calendar.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable-mdpi_transmit_main_logo.png.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-pngs-49:/drawable-mdpi/transmit_main_logo.png"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable_line.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/drawable/line.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable_document.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/drawable/document.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable_ic_launcher_transmit_background.xml.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/drawable/ic_launcher_transmit_background.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/xml_backup_rules.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable-xxhdpi_transmit_main_logo.png.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-pngs-49:/drawable-xxhdpi/transmit_main_logo.png"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable-xxxhdpi_transmit_main_logo.png.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-pngs-49:/drawable-xxxhdpi/transmit_main_logo.png"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/layout_main_screen.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/layout/main_screen.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/font_inter.ttf.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/font/inter.ttf"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable-ldpi_transmit_main_logo.png.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-pngs-49:/drawable-ldpi/transmit_main_logo.png"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable-xhdpi_transmit_main_logo.png.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-pngs-49:/drawable-xhdpi/transmit_main_logo.png"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable_face.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/drawable/face.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/layout_screen_status.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/layout/screen_status.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable-anydpi-v24_transmit_main_logo.xml.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-pngs-49:/drawable-anydpi-v24/transmit_main_logo.xml"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable-hdpi_transmit_main_logo.png.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-pngs-49:/drawable-hdpi/transmit_main_logo.png"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/drawable_ic_launcher_transmit_foreground.xml.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/drawable/ic_launcher_transmit_foreground.xml"
+    },
+    {
+        "merged": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/milinalevine/.gradle/daemon/7.5/com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.transmitsecurity.identityverificationbasic.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.transmitsecurity.identityverificationbasic.app-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

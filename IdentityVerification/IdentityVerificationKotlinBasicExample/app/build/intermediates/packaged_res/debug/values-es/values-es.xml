@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Start_btn">Continuar</string>
+    <string name="agreement">Acepto los Términos y Condiciones y la Política de Privacidad</string>
+    <string name="app_name">IDV SDK Demo app</string>
+    <string name="description">Es importante que te asegures de:</string>
+    <string name="first_link">Términos y Condiciones</string>
+    <string name="instruction1">Tener a mano tu Cédula, Pasaporte, Licencia de conducir o Permiso de Residencia vigente.</string>
+    <string name="instruction2">Asegúrate de que tu cédula esté en buen estado.</string>
+    <string name="instruction3">Usar un fondo plano para las fotos.</string>
+    <string name="instruction4">No usar fotocopias ni pantallas.</string>
+    <string name="new_verification">Nueva verificación</string>
+    <string name="second_link">Política de Privacidad</string>
+    <string name="statusTitle">Estado de verificación:</string>
+    <string name="title">Necesitamos verificar tu identidad</string>
+</resources>
